@@ -53,7 +53,7 @@ header {
 	border-bottom: 1px solid #00456e;
 	min-height: 5em;
 	background-color: #00456e;
-	color: #ffffff; 
+	color: #ffffff;
     height: 120px;
 }
 
@@ -75,6 +75,15 @@ header {
 
 .introduction {
     margin: 50px 0;
+}
+
+.challenge {
+	margin: 0 auto;
+	width: 50%;
+}
+
+p, .challenge {
+	font-size: 18px;
 }
 
 /*
